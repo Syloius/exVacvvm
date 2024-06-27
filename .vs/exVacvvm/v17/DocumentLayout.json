@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E70852-21B0-470F-AEBC-E0FFBBABFA2D}|exVacvvm\\exVacvvm.vcxproj|C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\exVacvvm\\src\\tt_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6E70852-21B0-470F-AEBC-E0FFBBABFA2D}|exVacvvm\\exVacvvm.vcxproj|solutionrelative:exVacvvm\\src\\tt_dll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF6A9276-3417-455C-81E2-50738D189782}|Sandbox\\Sandbox.vcxproj|C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AF6A9276-3417-455C-81E2-50738D189782}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E70852-21B0-470F-AEBC-E0FFBBABFA2D}|exVacvvm\\exVacvvm.vcxproj|C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\exVacvvm\\src\\tt_dll.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C6E70852-21B0-470F-AEBC-E0FFBBABFA2D}|exVacvvm\\exVacvvm.vcxproj|solutionrelative:exVacvvm\\src\\tt_dll.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\Sandbox\\src\\Application.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\src\\Application.cpp",
-              "ToolTip": "C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\Sandbox\\src\\Application.cpp",
-              "RelativeToolTip": "Sandbox\\src\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-26T16:43:58.616Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "tt_dll.h",
-              "DocumentMoniker": "C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\exVacvvm\\src\\tt_dll.h",
-              "RelativeDocumentMoniker": "exVacvvm\\src\\tt_dll.h",
-              "ToolTip": "C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\exVacvvm\\src\\tt_dll.h",
-              "RelativeToolTip": "exVacvvm\\src\\tt_dll.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-26T16:35:40.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "tt_dll.cpp",
-              "DocumentMoniker": "C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\exVacvvm\\src\\tt_dll.cpp",
-              "RelativeDocumentMoniker": "exVacvvm\\src\\tt_dll.cpp",
-              "ToolTip": "C:\\Users\\syloq\\Desktop\\C\u002B\u002Bprojects\\exVacvvm\\exVacvvm\\src\\tt_dll.cpp",
-              "RelativeToolTip": "exVacvvm\\src\\tt_dll.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-26T16:35:30.224Z",
-              "EditorCaption": ""
             }
           ]
         }
